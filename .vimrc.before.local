@@ -1,0 +1,5 @@
+" FABIC
+
+" Install Powerline fonts from
+" https://github.com/powerline/fonts
+let g:airline_powerline_fonts=1
