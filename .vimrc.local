@@ -2,3 +2,4 @@
 
 UnBundle 'neocomplete'
 
+set nospell
