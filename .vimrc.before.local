@@ -1,5 +1,9 @@
 " FABIC
 
+" don't u chdir !
+let g:spf13_no_autochdir = 1
+let g:spf13_no_neosnippet_expand = 1
+
 " Install Powerline fonts from
 " https://github.com/powerline/fonts
 let g:airline_powerline_fonts=1
